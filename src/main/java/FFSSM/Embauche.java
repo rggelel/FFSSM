@@ -11,7 +11,7 @@ public class Embauche {
     private final Moniteur employe;
 
     private final Club employeur;
-
+	// J'ai bien modifié le fichier de Gelel. Valentin.
     public Embauche(Calendar debut, Moniteur employe, Club employeur) {
         this.debut = debut;
         this.employe = employe;
